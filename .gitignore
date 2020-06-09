@@ -5,4 +5,5 @@ __pycache__
 .nox
 .mypy_cache
 docs/_build
+docs/autosummary
 .coverage

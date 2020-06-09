@@ -13,5 +13,5 @@ Classes
 .. autosummary::
    :toctree: autosummary
    :template: class.rst
-   
+
    Exif
